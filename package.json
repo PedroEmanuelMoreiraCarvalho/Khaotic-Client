@@ -1,0 +1,23 @@
+{
+  "name": "khaotic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "socket.io-msgpack-parser": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.2"
+  }
+}
